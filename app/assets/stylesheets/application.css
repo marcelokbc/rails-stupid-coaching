@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+.box-container {
+  width: 100%;
+  text-align: center;
+  border: 2px solid gray;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+ .form-inline {
+  display: inline-flex;
+ }
